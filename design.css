@@ -1,0 +1,22 @@
+body {
+	background-image: url("wizardbg.jpg");
+	background-size: 1400px;
+	background-color: black;
+	font-family: Papyrus, fantasy;
+}
+#header {
+	color: ghostwhite;
+	text-align: center;
+}
+#introtext {
+	color: ghostwhite;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#stats, #morestats {
+	color: ghostwhite;
+padding-left: 100px;
+}
+#button {
+	text-align: center;
+}
